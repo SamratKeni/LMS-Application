@@ -1,0 +1,25 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-plugin-document-viewer": {
+      "PACKAGE_NAME": "com.siddaganga.lms"
+    },
+    "cordova-plugin-file-opener2": {
+      "ANDROID_SUPPORT_V4_VERSION": "27.+",
+      "PACKAGE_NAME": "com.siddaganga.lms"
+    },
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "com.siddaganga.lms"
+    },
+    "cordova-plugin-android-zoom": {
+      "PACKAGE_NAME": "com.siddaganga.lms"
+    }
+  },
+  "dependent_plugins": {}
+}

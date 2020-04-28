@@ -1,0 +1,56 @@
+{
+  "_from": "git+https://github.com/deltragon/cordova-plugin-android-zoom.git",
+  "_id": "cordova-plugin-android-zoom@0.0.2",
+  "_inBundle": false,
+  "_integrity": "",
+  "_location": "/cordova-plugin-android-zoom",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "git+https://github.com/deltragon/cordova-plugin-android-zoom.git",
+    "rawSpec": "git+https://github.com/deltragon/cordova-plugin-android-zoom.git",
+    "saveSpec": "git+https://github.com/deltragon/cordova-plugin-android-zoom.git",
+    "fetchSpec": "https://github.com/deltragon/cordova-plugin-android-zoom.git",
+    "gitCommittish": null
+  },
+  "_requiredBy": [
+    "#DEV:/",
+    "#USER"
+  ],
+  "_resolved": "git+https://github.com/deltragon/cordova-plugin-android-zoom.git#4d74eebaf77ade417e5fbebb33d8fdd2e9167077",
+  "_spec": "git+https://github.com/deltragon/cordova-plugin-android-zoom.git",
+  "_where": "/Users/samratrathnaveerkeni/lms",
+  "author": {
+    "name": "md@x-net.at"
+  },
+  "bugs": {
+    "url": "https://github.com/deltragon/cordova-plugin-android-zoom/issues"
+  },
+  "bundleDependencies": false,
+  "cordova": {
+    "id": "cordova-plugin-android-zoom",
+    "platforms": [
+      "android"
+    ]
+  },
+  "deprecated": false,
+  "description": "Enables Zoom Controls for Cordova Android.",
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=8.0.0"
+    }
+  ],
+  "homepage": "https://github.com/deltragon/cordova-plugin-android-zoom#readme",
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "license": "MIT",
+  "name": "cordova-plugin-android-zoom",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deltragon/cordova-plugin-android-zoom.git"
+  },
+  "version": "0.0.2"
+}
